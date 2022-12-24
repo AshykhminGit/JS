@@ -49,5 +49,5 @@ console.log(post)
 //     > const postStr = JSON.stringify(post)
 //     undefined
 //     > JSON.parse(postStr)   --------------- распарсил
-//     { title: 'My post', likesQty: 5 }
+//     { title: 'My post', likesQty: 5 }//
     
